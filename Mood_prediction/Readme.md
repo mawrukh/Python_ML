@@ -31,3 +31,8 @@ The app communicates with a Flask backend for mood prediction. Ensure that the b
 4. **Navigate**: Use the bottom navigation bar to access different sections of the app.
 
 
+
+<img width="184" alt="image" src="https://github.com/user-attachments/assets/6055e4a3-282d-4262-8910-babcd087538a">
+
+
+
